@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.event-list-container {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container {
+  padding: 22px;
+  background-color: #475569;
+  width: 70%;
+}
+
+.img-head {
+  font-family: 'Roboto';
+  color: #ffffff;
+  align-items: flex-start;
+  margin-left: 70px;
+}
+
+.main-container {
+  display: flex;
+}

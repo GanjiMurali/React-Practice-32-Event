@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.status-container {
+  width: 30%;
+  text-align: center;
+  color: #64748b;
+  font-family: 'Roboto';
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 22px;
+}
+.yet-register-con {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 150px;
+  padding: 12px;
+}
+.yet-to-register-img {
+  height: 300px;
+  width: auto;
+}
+
+.para {
+  text-align: center;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.reg-button {
+  height: 35px;
+  width: 120px;
+  background-color: #046dff;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.registered {
+  height: 100px;
+  width: auto;
+}
+.font-sizes {
+  font-size: 25px;
+}
+.register-closed {
+  height: 300px;
+  width: auto;
+}
+.reg-closed-heading {
+  font-family: 'Roboto';
+}

@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.image {
+  height: 250px;
+  width: auto;
+}
+.img-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-bottom: 10px;
+  font-size: 32px;
+  font-weight: bold;
+}
+.location {
+  font-size: 18px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.each-list {
+  margin-right: 52px;
+  margin-bottom: 22px;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
